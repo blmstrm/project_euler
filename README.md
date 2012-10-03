@@ -1,4 +1,7 @@
 project_euler
 =============
 
-Solution to Project Euler problems in Haskell
+Solutions to Project Euler problems in Haskell
+
+
+

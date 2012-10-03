@@ -1,6 +1,4 @@
 --Euler problem 1
---Start:17:05
---End:23:18
 --Rename to Main.hs and run
 main =print(sum(modulo [0..999] 5 3))
 modulo :: [Integer]->Integer->Integer-> [Integer]

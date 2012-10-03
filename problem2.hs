@@ -1,6 +1,4 @@
 --Euler problem 2
---Start:23:50 23/03 2012
---End:00:10 24/03 2012
 --Rename to Main.hs and run
 main = print (fun 0 1)
 fun :: Integer -> Integer -> Integer

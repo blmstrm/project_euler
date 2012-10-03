@@ -1,6 +1,4 @@
 --Euler problem 4 
---Start: 20:12  26/3 2012
---End: 11:20 18/9 2012
 --Rename to Main.hs and run
 -- Biggest number 999 x 999 = 998001
 -- Find palindrom

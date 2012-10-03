@@ -1,6 +1,4 @@
 --Euler problem 3
---Start: 00:16 24/3 2012
---End:17:20 26/3 2012
 --Rename to Main.hs and run
 --Square root of 600851475143 = 775146.0992245268 ~ 775146 / Half the number is 300425737571
 --Trial division algorithm:

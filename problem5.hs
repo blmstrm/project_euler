@@ -1,6 +1,4 @@
 --Euler problem 5
---Start: 19:20 18/9 2012 
---End: 19:52 18/9 2012
 --Rename to Main.hs and run
 --Quite slow but well.
 
